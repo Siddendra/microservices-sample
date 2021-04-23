@@ -46,4 +46,3 @@ In case of Kubernetes deployment we use only some of Spring Cloud components lik
 
 <img src="https://piotrminkowski.files.wordpress.com/2017/03/kube_micro.png?w=768&h=528" title="Kube"/>
 
-For similar examples of microservice applications with Spring Boot 2 you may refer to the repository https://github.com/piomin/sample-spring-microservices-new
